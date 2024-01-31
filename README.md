@@ -1,2 +1,2 @@
 # ais_data_analysis
-thesis
+undergraduate thesis
